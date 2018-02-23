@@ -20,7 +20,7 @@ http://perception.csl.illinois.edu/matrix-rank/sample_code.html and solves the m
 using the Augmented Lagrange Multipliers (ALM) method.
 
 ## Contents
-demo_1btc.m : The primary script that loads the data, performs the recovery of a low-rank tensor from a
+**demo_1btc.m**: The primary script that loads the data, performs the recovery of a low-rank tensor from a
 number of binary measurements and provides the results.
 
 **QMC.m**: Perform the quantized matrix completion for each unfolding of the tensor.
